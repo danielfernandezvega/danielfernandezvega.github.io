@@ -1,2 +1,3 @@
-# 👋 welcome to my personal website
+# danielfernandezvega.github.io
+## 👋Welcome to my personal website
 Personal website
